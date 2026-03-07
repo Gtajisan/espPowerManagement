@@ -18,7 +18,7 @@ jobs:
 
       - name: Bump version in changelog
         run: |
-          python3 .github/scripts/bump_version.py
+          python3 .github/workflows/scripts/bump_version.py
 
       - name: Commit and push changelog
         run: |

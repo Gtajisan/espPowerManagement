@@ -1,4 +1,4 @@
-# ⚡🔒 ESP SecMonitor - Power Management + WiFi Security Testing
+# ⚡🔒 ESP SecMonitor - Power Management + WiFi Security Testing.
 
 [![Platform](https://img.shields.io/badge/platform-ESP8266-blue?style=flat-square)](https://www.espressif.com/en/products/socs/esp8266)
 [![Version](https://img.shields.io/badge/version-2.1.1-brightgreen?style=flat-square)](https://github.com/Gtajisan/espPowerManagement/releases)

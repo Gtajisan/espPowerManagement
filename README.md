@@ -89,6 +89,13 @@ pio run -e esp8266 -t upload
 # Monitor serial output
 pio device monitor
 ```
+```
+mkdir -p /home/claude/espPowerManagement-Pro/{src,.github/workflows,data,dashboard_preview,docs}
+echo "Structure ready"
+Output
+
+Structure ready
+```
 
 ### Option 3: Arduino IDE
 
